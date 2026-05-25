@@ -4,7 +4,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/github/contributors/Peaceful-World-X/TM" alt="Contributors"/>
-  <img src="https://img.shields.io/github/forks/Peaceful-World-X/TM" alt="Forks"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Peaceful-World-X.TM" alt="Visitors"/>
   <img src="https://img.shields.io/github/stars/Peaceful-World-X/TM" alt="Stars"/>
   <img src="https://img.shields.io/github/issues/Peaceful-World-X/TM" alt="Issues"/>
   <img src="https://img.shields.io/badge/Shell-Bash-green" alt="Bash"/>
